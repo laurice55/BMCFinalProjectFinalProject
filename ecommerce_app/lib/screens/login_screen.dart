@@ -159,7 +159,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     height: 20,
                     width: 20,
                     child: CircularProgressIndicator(
-                      valueColor: AlwaysStoppedAnimation<Color>(Colors.pink),
+                      valueColor: AlwaysStoppedAnimation<Color>(Colors.lightBlue),
                     ),
                   )
                       : const Text('Login'),
