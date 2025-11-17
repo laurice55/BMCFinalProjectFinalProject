@@ -64,11 +64,12 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBz0pX9sVfx-sBmms-tbTR6aHN3_OMxqhM',
-    appId: '1:337473087645:web:21947c136bfa0e70918c74',
-    messagingSenderId: '337473087645',
-    projectId: 'my-ecommerce-app-down',
-    authDomain: 'my-ecommerce-app-down.firebaseapp.com',
-    storageBucket: 'my-ecommerce-app-down.firebasestorage.app',
+    apiKey: 'AIzaSyCsXKEtKXYBikXBWSUQFA8madWF5mpABBg',
+    appId: '1:10669102911:web:30a4ae86716fbc6b80658a',
+    messagingSenderId: '10669102911',
+    projectId: 'my-ecommerce-app-555',
+    authDomain: 'my-ecommerce-app-555.firebaseapp.com',
+    storageBucket: 'my-ecommerce-app-555.firebasestorage.app',
   );
+
 }
